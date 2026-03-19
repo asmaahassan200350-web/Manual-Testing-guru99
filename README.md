@@ -30,4 +30,6 @@ Manual testing project for the Guru99 Banking demo website. The project focuses 
 
 ## Tools Used
 Google Sheets
+
+
 Manual Testing Techniques
