@@ -1,4 +1,4 @@
-##Project Summary
+Project Summary
 
 Manual testing project for the Guru99 Banking demo website. The project focuses on practicing software testing activities such as requirement analysis, test case design, test execution, and defect reporting.
 
