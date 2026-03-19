@@ -1,1 +1,1 @@
- [Click here to open Bug report](https://docs.google.com/spreadsheets/d/1me0C8y-ho1QRxAOCNT70_Tq_WApKS4OLMzMThMG_5Wg/edit?usp=sharing)
+-  [Click here to open Bug report](https://docs.google.com/spreadsheets/d/1me0C8y-ho1QRxAOCNT70_Tq_WApKS4OLMzMThMG_5Wg/edit?usp=sharing)
